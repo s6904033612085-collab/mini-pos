@@ -1,1 +1,1 @@
-# mini-pos test deploy
+# mini-pos trigger deploy
